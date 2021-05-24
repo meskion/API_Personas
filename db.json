@@ -1,0 +1,13 @@
+{"personas": [
+    {
+        "id":1,
+        "nombre":"Manuel",
+        "apellido":"Torres"
+    },
+    {
+        "id":2,
+        "nombre":"Felipe",
+        "apellido":"Ares"
+    }
+]
+}
